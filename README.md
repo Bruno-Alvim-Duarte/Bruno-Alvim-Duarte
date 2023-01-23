@@ -1,7 +1,7 @@
 ![header](https://user-images.githubusercontent.com/14060102/214122034-acf087c5-ee15-45eb-b593-439a874d5694.png)
 
-<p><strong>Olá</strong>, sou o <strong>Bruno</strong>, tenho 18 anos, sou do Rio de Janeiro e programo desdos 14 anos. </p>
-<p>Atualmente sou <strong>estudante</strong> da turma 27 da Trybe </p> 
+<p><i><strong>Olá</strong>, sou o <strong>Bruno</strong>, tenho 18 anos, sou do Rio de Janeiro e programo desdos 14 anos. </p>
+<p>Atualmente sou <strong>estudante</strong> da turma 27 da Trybe </i></p> 
 
 <img alt="trybe-logo" height="50" width="50" src="https://user-images.githubusercontent.com/14060102/214122910-222de391-dae8-4bcc-8f9d-b8c9e12e77ba.png">
 
