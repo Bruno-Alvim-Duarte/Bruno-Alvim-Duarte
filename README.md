@@ -1,9 +1,22 @@
 ![header](https://user-images.githubusercontent.com/14060102/214122034-acf087c5-ee15-45eb-b593-439a874d5694.png)
 
+## Apresentação
 <p><i><strong>Olá</strong>, sou o <strong>Bruno</strong>, tenho 18 anos, sou do Rio de Janeiro e programo desde os 14 anos. </p>
 <p>Atualmente sou <strong>estudante</strong> da turma 27 da Trybe </i></p> 
 
 <img alt="trybe-logo" height="50" width="50" src="https://user-images.githubusercontent.com/14060102/214122910-222de391-dae8-4bcc-8f9d-b8c9e12e77ba.png">
+
+## Sobre mim
+Prazer sou Bruno, sou um apaixonado por programação desde criança. Sempre gostei de jogar, montar meus próprios sites de forma simplificada, de fuçar nas configurações do computador e tudo mais e hoje sou um Desenvolvedor Web em formação na Trybe.
+
+Não tive nenhuma experiência de trabalho ainda, porém na Trybe nos tivemos algumas experiências em grupo em que pudemos experimentar um ambiente de trabalho de desenvolvimento, onde pude trabalhar a comunicação em grupo, a negociação, a colaboração, o brainstorm entre outras habilidades sociais.
+
+Estou estudando Front-end no momento, trabalhando as principais tecnologias:
+- React.js, JavaScript, HTML, CSS, Redux, Jest
+
+GitHUB: https://github.com/Bruno-Alvim-Duarte
+
+## Informações adicionais
 
 - 🌱 Estudando React
 - 📫 Contate-me no email: brunoalvimduarte@gmail.com
