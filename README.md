@@ -14,7 +14,7 @@ Não tive nenhuma experiência de trabalho ainda, porém na Trybe nos tivemos al
 Estou estudando Front-end no momento, trabalhando as principais tecnologias:
 - React.js, JavaScript, HTML, CSS, Redux, Jest
 
-GitHUB: https://github.com/Bruno-Alvim-Duarte
+Linkedin: https://www.linkedin.com/in/bruno-alvim-duarte/
 
 ## Informações adicionais
 
