@@ -6,7 +6,7 @@
 ## Sobre mim
 Prazer sou Bruno, sou um apaixonado por programação desde criança. Sempre gostei de jogar, montar meus próprios sites de forma simplificada, de fuçar nas configurações do computador e tudo mais e hoje sou um Desenvolvedor Web em formação na Trybe.
 
-Não tive nenhuma experiência de trabalho ainda, porém na Trybe nos tivemos algumas experiências em grupo em que pudemos experimentar um ambiente de trabalho de desenvolvimento, onde pude trabalhar a comunicação em grupo, a negociação, a colaboração, o brainstorm entre outras habilidades sociais.
+Na Trybe nos tivemos algumas experiências em grupo em que pudemos experimentar um ambiente de trabalho de desenvolvimento, onde pude trabalhar a comunicação em grupo, a negociação, a colaboração, o brainstorm entre outras habilidades sociais.
 
 Estou estudando Front-end no momento, trabalhando as principais tecnologias:
 - React.js, JavaScript, HTML, CSS, Redux, Jest
