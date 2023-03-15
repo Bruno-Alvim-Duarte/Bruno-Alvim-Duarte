@@ -13,7 +13,7 @@ Me formei na Trybe em Front-End, trabalhando as principais tecnologias:
 
 Estou estudando Back-End, trabalhando as principais tecnologias:
 
--Docker, Node.js, Typescript
+- Docker, Node.js, Typescript
 
 Linkedin: https://www.linkedin.com/in/bruno-alvim-duarte/
 
