@@ -9,7 +9,7 @@ Prazer sou Bruno, sou um apaixonado por programação desde criança. Sempre gos
 Na Trybe nos tivemos algumas experiências em grupo em que pudemos experimentar um ambiente de trabalho de desenvolvimento, onde pude trabalhar a comunicação em grupo, a negociação, a colaboração, o brainstorm entre outras habilidades sociais.
 
 Me formei na Trybe em Front-End, trabalhando as principais tecnologias:
-- React.js, JavaScript, HTML, CSS, Redux, Jest
+- React.js, JavaScript, HTML, CSS, Redux, Jest, React Hooks, Componentes Funcionais
 
 Estou estudando Back-End, trabalhando as principais tecnologias:
 
