@@ -13,13 +13,13 @@ Me formei na Trybe em Front-End, trabalhando as principais tecnologias:
 
 Estou estudando Back-End, trabalhando as principais tecnologias:
 
-- Docker, Node.js, Typescript
+- Docker, MySql, Typescript, Node.js
 
 Linkedin: https://www.linkedin.com/in/bruno-alvim-duarte/
 
 ## Informações adicionais
 
-- 🌱 Estudando React
+- 🌱 Estudando MySql
 - 📫 Contate-me no email: brunoalvimduarte@gmail.com
 - 😄 Pronomes: Ele/Dele
 
@@ -29,6 +29,12 @@ Linkedin: https://www.linkedin.com/in/bruno-alvim-duarte/
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="MUI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img align="center" alt="GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+  <img align="center" alt="DOCKER" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+          
 <!--   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
 </div>
 
