@@ -19,7 +19,7 @@ Linkedin: https://www.linkedin.com/in/bruno-alvim-duarte/
 
 ## Informações adicionais
 
-- 🌱 Estudando NodeJS
+- 🌱 Estudando ORM
 - 📫 Contate-me no email: brunoalvimduarte@gmail.com
 - 😄 Pronomes: Ele/Dele
 
