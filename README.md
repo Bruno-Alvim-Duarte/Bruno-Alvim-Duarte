@@ -13,19 +13,21 @@ Me formei na Trybe em Front-End, trabalhando as principais tecnologias:
 
 Estou estudando Back-End, trabalhando as principais tecnologias:
 
-- Docker, MySql, Typescript, Node.js
+- Docker, MySql, Typescript, Node.js, Express, Sequelize, Python, C#
 
 Linkedin: https://www.linkedin.com/in/bruno-alvim-duarte/
 
 ## Informações adicionais
 
-- 🌱 Estudando TypeScript
+- 🌱 Estudando C#
 - 📫 Contate-me no email: brunoalvimduarte@gmail.com
 - 😄 Pronomes: Ele/Dele
 
 ## Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -39,6 +41,7 @@ Linkedin: https://www.linkedin.com/in/bruno-alvim-duarte/
   <img align="center" alt="NodeJS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Sequelize" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  
 
 
           
