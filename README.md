@@ -13,13 +13,14 @@ Me formei na Trybe em Front-End, trabalhando as principais tecnologias:
 
 Estou estudando Back-End, trabalhando as principais tecnologias:
 
-- Docker, MySql, Typescript, Node.js, Express, Sequelize, Python, C#
+- Docker, MySql, Typescript, Node.js, Express, Sequelize, Python, C#, Java, AdonisJS, Entity Framework, .NET, ASP.NET
 
 Linkedin: https://www.linkedin.com/in/bruno-alvim-duarte/
 
 ## Informações adicionais
 
 - 🌱 Estudando C#
+- 🏐 Meu hobbie: sou atleta de vôlei de praia
 - 📫 Contate-me no email: brunoalvimduarte@gmail.com
 - 😄 Pronomes: Ele/Dele
 
@@ -41,7 +42,16 @@ Linkedin: https://www.linkedin.com/in/bruno-alvim-duarte/
   <img align="center" alt="NodeJS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Sequelize" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
   <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="Adonisjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" alt="Slack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
+
+
+
+
 
 
           
