@@ -4,7 +4,7 @@
 <p>Atualmente sou <strong>estudante</strong> da turma 27 da Trybe <img alt="trybe-logo" height="15" width="15" border="0" padding="0" src="https://user-images.githubusercontent.com/14060102/214122910-222de391-dae8-4bcc-8f9d-b8c9e12e77ba.png"></i></p> 
 
 ## Sobre mim
-Prazer sou Bruno, sou um apaixonado por programação desde criança. Sempre gostei de jogar, montar meus próprios sites de forma simplificada, de fuçar nas configurações do computador e tudo mais e hoje sou um Desenvolvedor Web em formado pela Trybe.
+Prazer sou Bruno, sou um apaixonado por programação desde criança. Sempre gostei de jogar, montar meus próprios sites de forma simplificada, de fuçar nas configurações do computador e tudo mais e hoje sou um Desenvolvedor Web formado pela Trybe.
 
 Na Trybe nos tivemos algumas experiências em grupo em que pudemos experimentar um ambiente de trabalho de desenvolvimento, onde pude trabalhar a comunicação em grupo, a negociação, a colaboração, o brainstorm entre outras habilidades sociais.
 
