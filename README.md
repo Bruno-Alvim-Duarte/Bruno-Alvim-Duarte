@@ -11,15 +11,19 @@ Na Trybe nos tivemos algumas experiências em grupo em que pudemos experimentar 
 Me formei na Trybe em Front-End, trabalhando as principais tecnologias:
 - React.js, JavaScript, HTML, CSS, Redux, Jest, React Hooks, Componentes Funcionais, React Testing Library
 
-Estou estudando Back-End, trabalhando as principais tecnologias:
+Me formei na Trybe em Back-End, trabalhando as principais tecnologias:
 
 - Docker, MySql, Typescript, Node.js, Express, Sequelize, Python, C#, Java, AdonisJS, Entity Framework, .NET, ASP.NET
+
+Atulamente as principais stackss que trabalho são:
+
+- Typescript, NodeJS, NestJS, Next.js, AWS, Express, Redis, Amazon SQS, MySQL, Docker, Micro serviços, Jest, Postgres, Prisma 
 
 Linkedin: https://www.linkedin.com/in/bruno-alvim-duarte/
 
 ## Informações adicionais
 
-- 🌱 Estudando C#
+- 🌱 Estudando NestJS
 - 🏐 Meu hobbie: sou atleta de vôlei de praia
 - 📫 Contate-me no email: brunoalvimduarte@gmail.com
 - 😄 Pronomes: Ele/Dele
