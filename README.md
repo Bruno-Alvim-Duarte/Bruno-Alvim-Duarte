@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/14060102/214122034-acf087c5-ee15-45eb-b593-439a874d5694.png)
 
-<p><i><strong>Olá</strong>, sou o <strong>Bruno</strong>, tenho 18 anos, sou do Rio de Janeiro e programo desde os 14 anos. </p>
+<p><i><strong>Olá</strong>, sou o <strong>Bruno</strong>, tenho 21 anos, sou do Rio de Janeiro e programo desde os 14 anos. </p>
 <p>Atualmente sou Desenvolvedor Fullstack Pleno </i></p> 
 
 ## Sobre mim
